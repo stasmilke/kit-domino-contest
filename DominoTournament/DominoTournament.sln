@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DominoTournament", "DominoTournament\DominoTournament.csproj", "{EDADC904-C22C-4BEE-9B39-5A785DBDAF1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDADC904-C22C-4BEE-9B39-5A785DBDAF1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDADC904-C22C-4BEE-9B39-5A785DBDAF1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDADC904-C22C-4BEE-9B39-5A785DBDAF1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDADC904-C22C-4BEE-9B39-5A785DBDAF1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5D1230C-C75D-475B-968D-11DA9FAB264D}
+	EndGlobalSection
+EndGlobal
